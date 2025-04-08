@@ -1,4 +1,3 @@
-# Applied-Financial-Statement-Analysis
 Project Summary: Applied Financial Statement Analysis – Dabur India Ltd
 This project presents a comprehensive financial analysis of Dabur India Ltd, focusing on evaluating its financial performance and position over a specified period. The analysis utilizes key financial statements and applies standard financial ratios and tools to assess the company's operational efficiency, profitability, liquidity, and solvency.
 
